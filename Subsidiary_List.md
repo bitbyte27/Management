@@ -31,5 +31,5 @@
 |27||4|[杭州华园大象健康科技有限公司](https://www.qichacha.com/firm_046ea69c86393b4542003fa86244e530.html)|2016-11-22|100|
 |28||5|[杭州华居创新创业服务有限公司](https://www.qichacha.com/firm_6401f9b78174e645d961119b43319b77.html)|2017-4-13|100|
 |29|已注销退股|1|[杭州友我科技服务有限公司](https://www.qichacha.com/firm_8ef25729774f7e34caa212f1b2cbdc7f.html)|2017-1-20|50|
-|30||2|嘉兴华园生物农业科技有限公司|2017-5-25|100|
-|31||3|杭州智骋物联科技有限公司|2016-12-8|300|
+|30||2|[嘉兴华园生物农业科技有限公司](https://www.qichacha.com/firm_cacfae4ee1c280977b27555bfceb77f2.html)|2017-5-25|100|
+|31||3|[杭州智骋物联科技有限公司](https://www.qichacha.com/firm_e985d7485709b41f54a974ba5b43f8a1.html)|2016-12-8|300|
