@@ -15,7 +15,7 @@
 |11||9|[嘉兴华益健康管理有限公司](https://www.qichacha.com/firm_8f9ae60ca6bbc8eca955463872070338.html)|2017-2-23|300|
 |12||10|[杭州嘉清纳磁医疗科技有限公司](https://www.qichacha.com/firm_6b7b7adb203c4d4bc9e138483cc38bad.html)|2018-4-4|50|
 |13||11|[杭州元来网络科技有限公司](https://www.qichacha.com/firm_89e9df8a94aa591a438bc09a9c28ae95.html)|2015-3-11|100|
-|14|12|清大同创（工商注册中）|||
+|14||12|清大同创（工商注册中）|||
 |15|康养基地|1|清大康养（工商注册中）|||
 |16|健康教育|1|[嘉兴华园清清教育科技有限公司](https://www.qichacha.com/firm_3d35f784553942c17e11c3290fce3d2f.html)|2016-11-17|100|
 |17||2|[嘉兴华骏企业管理咨询有限公司](https://www.qichacha.com/firm_0f5e36f303c3292992b0bb287279eb22.html)|2016-8-12|100|
