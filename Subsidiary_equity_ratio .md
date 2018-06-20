@@ -5,7 +5,7 @@
 |1|医疗服务|1|杭州华园协和健康生物工程有限公司|35%|杭州云创谷|
 |2||2|杭州清大视光科技有限公司|40%|华园控股|
 |3|创新孵化|1|浙江清大和达科技服务有限公司|70%|华园控股|
-|4||2|华园国际科技合作服务（杭州）有限公司|100%|华园控股|
+|4||2|[华园国际科技合作服务（杭州）有限公司](https://github.com/bitbyte27/Management/blob/master/Subsidiary_Contact_Record/huayuanguoji.md)|100%|华园控股|
 |5||3|[中新城镇化（北京）规划研究院有限公司](https://github.com/bitbyte27/Management/blob/master/Subsidiary_Contact_Record/zhongxinchengzhenhua.md)|5%|华园控股|
 |6||4|杭州霆科生物科技有限公司|3.9175%|杭州云创谷|
 |7||5|杭州水木龙脑生物科技有限公司|9.4%|杭州云创谷|
