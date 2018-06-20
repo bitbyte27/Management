@@ -33,5 +33,5 @@
 |29||8|杭州颗颗乐农业科技有限公司|38.5%|华珑科技|
 |30||9|杭州汶鱼投资管理合伙企业（有限合伙）|20%|华珑科技|
 |31|已注销退股|1|[杭州友我科技服务有限公司](https://github.com/bitbyte27/Management/blob/master/Subsidiary_Contact_Record/youwo.md)|20%|杭州云创谷|
-|32||2|[嘉兴华园生物农业科技有限公司]()|72%|华园控股|
+|32||2|[嘉兴华园生物农业科技有限公司](https://github.com/bitbyte27/Management/blob/master/Subsidiary_Contact_Record/shengwunongye.md)|72%|华园控股|
 |33||3|[杭州智骋物联科技有限公司](https://github.com/bitbyte27/Management/blob/master/Subsidiary_Contact_Record/zhichengwulian.md)|15%|杭州云创谷|
