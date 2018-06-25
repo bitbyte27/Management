@@ -5,4 +5,3 @@
 * [控参股子公司工商变更](https://github.com/bitbyte27/Management/blob/master/Commercial_Registration.md)
 * [控参股子公司股权比例](https://github.com/bitbyte27/Management/blob/master/Subsidiary_equity_ratio%20.md)
 * [控参股子公司董监高情况](https://github.com/bitbyte27/Management/blob/master/Subsidiary_DongJianGao.md)
-* [拟控参股项目信息](https://github.com/bitbyte27/Management/blob/master/Planned_share_participation.md)
